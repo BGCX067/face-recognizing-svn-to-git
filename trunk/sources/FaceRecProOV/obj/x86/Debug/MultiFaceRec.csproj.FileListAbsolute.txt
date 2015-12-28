@@ -1,0 +1,11 @@
+E:\Customer-Projects\FaceRecognizing\face-recognizing\sources\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+E:\Customer-Projects\FaceRecognizing\face-recognizing\sources\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+E:\Customer-Projects\FaceRecognizing\face-recognizing\sources\FaceRecProOV\bin\Debug\Emgu.CV.xml
+E:\Customer-Projects\FaceRecognizing\face-recognizing\sources\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+E:\Customer-Projects\FaceRecognizing\face-recognizing\sources\FaceRecProOV\bin\Debug\Emgu.Util.xml
+E:\Customer-Projects\FaceRecognizing\face-recognizing\sources\FaceRecProOV\obj\x86\Debug\MultiFaceRec.AddFacesForm.resources
+E:\Customer-Projects\FaceRecognizing\face-recognizing\sources\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\Customer-Projects\FaceRecognizing\face-recognizing\sources\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\Customer-Projects\FaceRecognizing\face-recognizing\sources\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\Customer-Projects\FaceRecognizing\face-recognizing\sources\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+E:\Customer-Projects\FaceRecognizing\face-recognizing\sources\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb

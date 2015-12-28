@@ -1,0 +1,2 @@
+serverName=ADMIN-PC
+database=FaceRecognizing
